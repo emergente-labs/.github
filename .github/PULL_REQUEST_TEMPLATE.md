@@ -22,6 +22,7 @@
 - [ ] Manual QA done (if applicable)
 
 **Test notes:**
+
 - Command(s) run:
   - `pnpm test`
   - `pnpm test:e2e`
