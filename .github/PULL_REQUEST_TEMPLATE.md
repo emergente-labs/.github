@@ -7,7 +7,7 @@
 - Linear issue: [ENG-123](https://linear.app/...)
 - Short context: why are we doing this?
 
-## Task Plan
+## Task sPlan
 
 - [ ] Step 1:
 - [ ] Step 2:
