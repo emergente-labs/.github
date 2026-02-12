@@ -7,6 +7,10 @@
 - Linear issue: [ENG-123](https://linear.app/...)
 - Short context: why are we doing this?
 
+## Scope
+
+- packages/or-apps-you-touched
+
 ## Task Plan
 
 - [ ] Step 1:
