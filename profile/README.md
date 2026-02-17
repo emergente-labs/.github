@@ -31,7 +31,7 @@ We maintain a set of open-source libraries that power our internal stack and are
 
 - **[effect-cloudflare](https://github.com/emergente-labs/effect-cloudflare)** &mdash; Effect-TS toolkit for Cloudflare Workers
 - **[effect-env](https://github.com/emergente-labs/effect-env)** &mdash; Type-safe environment variable configuration for Effect-TS
-- **[ui-components](https://github.com/emergente-labs/ui-components)** &mdash; Official UI library for SellHub and subsidiaries
+- **[effect-sql-model](https://github.com/emergente-labs/effect-sql-model)** &mdash; Effect Schema to Drizzle ORM table compiler
 
 ## Tech Stack
 
