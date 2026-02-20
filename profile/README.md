@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/216591823?s=200&v=4" width="120" />
 
-# EMERGENTE LABS
+# Emergente Labs
 
 **Building the infrastructure for modern commerce and fintech.**
 
@@ -14,7 +14,7 @@ TypeScript &bull; Effect-TS &bull; Cloudflare Workers &bull; Nix
 
 ## About
 
-Emergente Labs is a product engineering studio building high-reliability software for commerce and financial technology. We design, build, and operate the platforms behind **SellHub** and **MoneyMotion** &mdash; products that power real businesses at scale.
+Emergente Labs is a product engineering studio building high-reliability software for commerce and financial technology. We design, build, and operate the platforms behind **Sellhub** and **honeymotion** &mdash; products that power real businesses at scale.
 
 Our engineering culture is built around **type safety**, **functional programming**, and **observable systems**. We use [Effect-TS](https://effect.website) as our core runtime for building resilient, composable backend services deployed on Cloudflare's global edge network.
 
@@ -22,8 +22,8 @@ Our engineering culture is built around **type safety**, **functional programmin
 
 | Product | Description |
 |---|---|
-| **SellHub** | Unified commerce platform with storefront management, component libraries, and integration tooling for online sellers |
-| **MoneyMotion** | Financial operations platform with dashboards, documentation, and API-driven workflows for payment processing |
+| **Sellhub** | Unified commerce platform with storefront management, components, and integration tooling for online sellers. |
+| **moneymotion** | Financial operations platform with dashboards, documentation, and API-driven workflows for payment processing. |
 
 ## Open Source
 
