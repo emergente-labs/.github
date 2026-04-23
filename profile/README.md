@@ -14,7 +14,7 @@ TypeScript &bull; Effect-TS &bull; Cloudflare Workers &bull; Nix
 
 ## About
 
-Emergente Labs is a product engineering studio building high-reliability software for commerce and financial technology. We design, build, and operate the platforms behind **Sellhub** and **honeymotion** &mdash; products that power real businesses at scale.
+Emergente Labs is a product engineering studio building high-reliability software for commerce and financial technology. We design, build, and operate the platforms behind **Sellhub** and **moneymotion** &mdash; products that power real businesses at scale.
 
 Our engineering culture is built around **type safety**, **functional programming**, and **observable systems**. We use [Effect-TS](https://effect.website) as our core runtime for building resilient, composable backend services deployed on Cloudflare's global edge network.
 
